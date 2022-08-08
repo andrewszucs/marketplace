@@ -1,6 +1,6 @@
 <h3 align="center">Reservoir Market</h3>
   <p align="center">
-An open source NFT marketplace built on Reservoir.
+Private fork of an open source NFT marketplace built on Reservoir.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
